@@ -7,7 +7,7 @@ class Country {
     }
 }
 
-let usa = new Country("USA", "Murican", "Why Hello there world! Have some McDonalds", ["red", "white", "blue"]);
+let usa = new Country("USA", "Murican", "Why Hello there world! Have some McDonalds", ["#b22234", "white", "#3c3b6e"]);
 let mexico = new Country("Mexico", "Spanish", "Hola mundo!", ["red", "white", "green"]);
 let japan = new Country("Japan", "Japanese", "Kon'nichiwa sekai", ["red", "white"]);
 let egypt = new Country("Egypt", "Arabic", "Sup", ["red", "white", "black"]);
